@@ -57,9 +57,8 @@ preferences:
 encoding: utf-8
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-modernist
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
