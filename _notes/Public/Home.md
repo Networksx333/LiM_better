@@ -1,6 +1,6 @@
 ---
 title: Вопросы к зачету
-feed: hide
+feed: show
 date: 25-05-2024
 permalink: 
 format: list
