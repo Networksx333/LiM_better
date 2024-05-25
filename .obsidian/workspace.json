@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fcbb7a7f3c4c8c6",
+            "id": "9a649814032cdc9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_notes/Public/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_notes/Public/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/notes.md",
+                "file": "_notes/Public/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/notes.md"
+                "file": "_notes/Public/Home.md"
               }
             }
           }
@@ -146,16 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fcbb7a7f3c4c8c6",
+  "active": "9a649814032cdc9f",
   "lastOpenFiles": [
-    "pages/posts.md",
-    "pages/lists.md",
-    "pages/index.md",
-    "pages/404.md",
+    "template/name.md",
+    "_notes/Public/Home.md",
+    "README.md",
+    "_posts/2020-03-01-how-to.md",
     "_posts/2020-03-01-features.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Hidden Note.md",
-    "_notes/Public/Credits.md"
+    "_notes/Public/Credits.md",
+    "pages/notes.md",
+    "template",
+    "pages/posts.md",
+    "pages/lists.md",
+    "pages/index.md",
+    "pages/404.md"
   ]
 }
