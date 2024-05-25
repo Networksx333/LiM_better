@@ -1,5 +1,5 @@
 ---
-title: Вопросы к зачету
+title: Questions
 feed: show
 date: 25-05-2024
 permalink: 
